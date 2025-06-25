@@ -2,7 +2,7 @@ import pyperclip
 from pushbullet import Pushbullet
 
 
-pb = Pushbullet("o.zOGSadXlTdisBBYdz5HlpDoxmUe0jBdR")
+pb = Pushbullet("API TOKEN")
 
 def pushbullet_notification(send):
     
